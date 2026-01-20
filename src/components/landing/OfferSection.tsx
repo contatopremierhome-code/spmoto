@@ -1,5 +1,7 @@
+'use client';
+
 import { Button } from '@/components/ui/button';
-import { QuantitySelector } from './QuantitySelector';
+import { ShieldCheck, Truck } from 'lucide-react';
 
 export function OfferSection() {
   return (
@@ -8,16 +10,28 @@ export function OfferSection() {
         <div className="flex items-center gap-4">
           <p className="text-4xl md:text-5xl font-bold">A partir de R$20,00</p>
         </div>
-        
+
         <div className="flex flex-col items-center gap-4 w-full max-w-xs">
-          <p className="font-semibold">Selecione a quantidade:</p>
-          <QuantitySelector />
-          <Button size="lg" className="w-full text-lg py-6 px-4 uppercase font-bold mt-2">
+          <Button
+            size="lg"
+            className="w-full text-lg py-6 px-8 uppercase font-bold"
+          >
             Comprar
           </Button>
         </div>
-        
-        <p className="text-sm text-muted-foreground mt-2">
+
+        <div className="flex justify-center items-center gap-8 -mt-2">
+          <div className="flex items-center gap-2 text-sm font-medium text-muted-foreground">
+            <ShieldCheck className="h-5 w-5 text-accent" />
+            <span>Compra Garantida</span>
+          </div>
+          <div className="flex items-center gap-2 text-sm font-medium text-muted-foreground">
+            <Truck className="h-5 w-5 text-primary" />
+            <span>Entrega FULL</span>
+          </div>
+        </div>
+
+        <p className="text-sm text-muted-foreground">
           Compra 100% Segura. Estoque Limitado.
         </p>
       </div>
