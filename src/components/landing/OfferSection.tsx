@@ -7,8 +7,13 @@ export function OfferSection() {
   return (
     <section className="w-full bg-secondary py-12 md:py-16">
       <div className="container mx-auto px-4 max-w-2xl flex flex-col items-center text-center gap-6">
-        <div className="flex items-center gap-4">
-          <p className="text-4xl md:text-5xl font-bold">A partir de R$20,00</p>
+        <div className="flex items-baseline justify-center gap-3">
+          <span className="text-2xl md:text-3xl font-bold text-muted-foreground line-through">
+            De R$49,90
+          </span>
+          <span className="text-4xl md:text-5xl font-bold text-primary">
+            Por R$20,00
+          </span>
         </div>
 
         <div className="flex flex-col items-center gap-4 w-full max-w-xs">
