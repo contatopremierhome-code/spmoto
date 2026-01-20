@@ -8,7 +8,7 @@ export function Footer() {
           Não perca mais tempo com suportes frágeis.
         </h3>
         <p className="text-2xl md:text-3xl font-bold mt-2">
-          A partir de <span className="text-primary">R$20,00</span>
+          Apenas <span className="text-primary">R$20,00</span>
         </p>
         <Button size="lg" className="mt-8 text-lg py-6 px-8 uppercase font-bold">
           Comprar
