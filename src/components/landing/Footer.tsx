@@ -1,15 +1,26 @@
 import { Button } from '@/components/ui/button';
-import Link from 'next/link';
 
 export function Footer() {
   return (
-    <footer className="w-full bg-secondary text-secondary-foreground py-8 px-4 md:px-6">
-      <div className="container mx-auto max-w-4xl flex flex-col items-center text-center gap-6">
-        <div>
-          <h3 className="text-2xl md:text-3xl font-bold">Não perca mais tempo com suportes frágeis.</h3>
-          <p className="text-xl md:text-2xl font-bold mt-2">A partir de <span className="text-primary">R$20,00</span></p>
-        </div>
-        <Button size="lg" className="text-lg py-6 px-8 uppercase font-bold">
+    <footer className="relative w-full h-80 md:h-96 overflow-hidden flex items-center justify-center text-center text-white">
+      <video
+        className="absolute top-0 left-0 w-full h-full object-cover z-0"
+        src="https://i.imgur.com/rRRi5kX.mp4"
+        autoPlay
+        loop
+        muted
+        playsInline
+        aria-label="Vídeo de um motoboy utilizando o celular no suporte em movimento."
+      />
+      <div className="absolute inset-0 bg-black/50 z-10"></div>
+      <div className="relative z-20 px-4">
+        <h3 className="text-3xl md:text-4xl font-bold">
+          Não perca mais tempo com suportes frágeis.
+        </h3>
+        <p className="text-2xl md:text-3xl font-bold mt-2">
+          A partir de <span className="text-primary">R$20,00</span>
+        </p>
+        <Button size="lg" className="mt-8 text-lg py-6 px-8 uppercase font-bold">
           Comprar
         </Button>
       </div>
