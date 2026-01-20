@@ -8,62 +8,62 @@
     },
     {
       "id": "carousel1",
-      "description": "Vista lateral do suporte de celular.",
-      "imageUrl": "https://picsum.photos/seed/product1/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsobpqt27g99bf.webp",
       "imageHint": "phone holder side"
     },
     {
       "id": "carousel2",
-      "description": "Detalhe da garra de fixação do suporte.",
-      "imageUrl": "https://picsum.photos/seed/product2/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv5fqa3eii6n18.webp",
       "imageHint": "phone holder clamp"
     },
     {
       "id": "carousel3",
-      "description": "Suporte instalado em uma bicicleta.",
-      "imageUrl": "https://picsum.photos/seed/product3/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv5fqa3exynd54.webp",
       "imageHint": "phone holder bicycle"
     },
     {
       "id": "carousel4",
-      "description": "Ajuste de ângulo do suporte.",
-      "imageUrl": "https://picsum.photos/seed/product4/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv5fqa3fdew91c.webp",
       "imageHint": "phone holder angle"
     },
     {
       "id": "carousel5",
-      "description": "Conteúdo da embalagem.",
-      "imageUrl": "https://picsum.photos/seed/product5/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv5fqa3exy1pb2.webp",
       "imageHint": "product package contents"
     },
     {
       "id": "carousel6",
-      "description": "Suporte segurando um celular na vertical.",
-      "imageUrl": "https://picsum.photos/seed/product6/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv5fqa3eiieh01.webp",
       "imageHint": "phone holder vertical"
     },
     {
       "id": "carousel7",
-      "description": "Suporte segurando um celular na horizontal.",
-      "imageUrl": "https://picsum.photos/seed/product7/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv5fqa3eihst5b.webp",
       "imageHint": "phone holder horizontal"
     },
     {
       "id": "carousel8",
-      "description": "Detalhe do material de alumínio.",
-      "imageUrl": "https://picsum.photos/seed/product8/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/cn-11134207-7ras8-mc7nlw93qw0244.webp",
       "imageHint": "aluminum material"
     },
     {
       "id": "carousel9",
-      "description": "Adaptadores de guidão inclusos.",
-      "imageUrl": "https://picsum.photos/seed/product9/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/cn-11134207-7ras8-mc7nne8gqzzgbc.webp",
       "imageHint": "handlebar adapters"
     },
     {
       "id": "carousel10",
-      "description": "Ferramenta de instalação.",
-      "imageUrl": "https://picsum.photos/seed/product10/400/400",
+      "description": "Detalhe do produto",
+      "imageUrl": "https://down-br.img.susercontent.com/file/cn-11134207-7ras8-mc7nvcdc0xbg56.webp",
       "imageHint": "installation tool"
     }
   ],
