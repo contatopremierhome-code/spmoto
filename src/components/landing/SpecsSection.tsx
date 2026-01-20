@@ -3,7 +3,7 @@ import { CheckCircle2 } from 'lucide-react';
 
 const specs = [
   { label: 'Material', value: 'Liga de Alumínio (Anti-ferrugem e corrosão).' },
-  { label: 'Compatibilidade Celular', value: 'Telas de 3,5” até 6,2” (Largura de 6cm a 11cm).' },
+  { label: 'Compatibilidade Celular', value: 'Telas de 3,5” até 6,5” (Largura de 6cm a 11cm).' },
   { label: 'Compatibilidade Guidão', value: 'Diâmetro de 31,8mm (inclui adaptadores para 25,5mm e 22mm).' },
   { label: 'Ideal para', value: 'Motos (ex: CG, XRE, BMW GS, Triumph) e Bicicletas (todas).' },
   { label: 'Peso', value: 'Leve (aprox. 90g-100g).' },
