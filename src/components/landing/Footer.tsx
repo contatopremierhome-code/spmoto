@@ -12,17 +12,6 @@ export function Footer() {
         <Button size="lg" className="text-lg py-6 px-8 uppercase font-bold">
           Comprar
         </Button>
-        <div className="text-center text-muted-foreground text-sm mt-4">
-          <p>SP MotoSafe - CNPJ: 00.000.000/0001-00</p>
-          <div className="flex gap-4 justify-center mt-2">
-            <Link href="#" className="hover:underline">
-              Política de Privacidade
-            </Link>
-            <Link href="#" className="hover:underline">
-              Termos de Serviço
-            </Link>
-          </div>
-        </div>
       </div>
     </footer>
   );
