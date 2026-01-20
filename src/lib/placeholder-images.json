@@ -1,3 +1,108 @@
 {
-  "placeholderImages": []
+  "productImages": [
+    {
+      "id": "main",
+      "description": "Suporte de alumínio para celular em destaque, instalado em um guidão de moto.",
+      "imageUrl": "https://down-br.img.susercontent.com/file/cn-11134207-7ras8-mdomm8uzaz1v15.webp",
+      "imageHint": "phone holder motorcycle"
+    },
+    {
+      "id": "carousel1",
+      "description": "Vista lateral do suporte de celular.",
+      "imageUrl": "https://picsum.photos/seed/product1/400/400",
+      "imageHint": "phone holder side"
+    },
+    {
+      "id": "carousel2",
+      "description": "Detalhe da garra de fixação do suporte.",
+      "imageUrl": "https://picsum.photos/seed/product2/400/400",
+      "imageHint": "phone holder clamp"
+    },
+    {
+      "id": "carousel3",
+      "description": "Suporte instalado em uma bicicleta.",
+      "imageUrl": "https://picsum.photos/seed/product3/400/400",
+      "imageHint": "phone holder bicycle"
+    },
+    {
+      "id": "carousel4",
+      "description": "Ajuste de ângulo do suporte.",
+      "imageUrl": "https://picsum.photos/seed/product4/400/400",
+      "imageHint": "phone holder angle"
+    },
+    {
+      "id": "carousel5",
+      "description": "Conteúdo da embalagem.",
+      "imageUrl": "https://picsum.photos/seed/product5/400/400",
+      "imageHint": "product package contents"
+    },
+    {
+      "id": "carousel6",
+      "description": "Suporte segurando um celular na vertical.",
+      "imageUrl": "https://picsum.photos/seed/product6/400/400",
+      "imageHint": "phone holder vertical"
+    },
+    {
+      "id": "carousel7",
+      "description": "Suporte segurando um celular na horizontal.",
+      "imageUrl": "https://picsum.photos/seed/product7/400/400",
+      "imageHint": "phone holder horizontal"
+    },
+    {
+      "id": "carousel8",
+      "description": "Detalhe do material de alumínio.",
+      "imageUrl": "https://picsum.photos/seed/product8/400/400",
+      "imageHint": "aluminum material"
+    },
+    {
+      "id": "carousel9",
+      "description": "Adaptadores de guidão inclusos.",
+      "imageUrl": "https://picsum.photos/seed/product9/400/400",
+      "imageHint": "handlebar adapters"
+    },
+    {
+      "id": "carousel10",
+      "description": "Ferramenta de instalação.",
+      "imageUrl": "https://picsum.photos/seed/product10/400/400",
+      "imageHint": "installation tool"
+    }
+  ],
+  "testimonialAvatars": [
+    {
+      "id": "avatar1",
+      "description": "Avatar do cliente Marcos S.",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "avatar2",
+      "description": "Avatar de cliente satisfeito.",
+      "imageUrl": "https://picsum.photos/seed/avatar2/100/100",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "avatar3",
+      "description": "Avatar de cliente satisfeito.",
+      "imageUrl": "https://picsum.photos/seed/avatar3/100/100",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "avatar4",
+      "description": "Avatar de cliente satisfeito.",
+      "imageUrl": "https://picsum.photos/seed/avatar4/100/100",
+      "imageHint": "person happy"
+    },
+    {
+      "id": "avatar5",
+      "description": "Avatar de cliente satisfeito.",
+      "imageUrl": "https://picsum.photos/seed/avatar5/100/100",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "avatar6",
+      "description": "Avatar de cliente satisfeito.",
+      "imageUrl": "https://picsum.photos/seed/avatar6/100/100",
+      "imageHint": "woman happy"
+    }
+  ]
 }

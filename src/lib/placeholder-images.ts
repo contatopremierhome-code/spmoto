@@ -7,4 +7,8 @@ export type ImagePlaceholder = {
   imageHint: string;
 };
 
-export const PlaceHolderImages: ImagePlaceholder[] = data.placeholderImages;
+export const productImages: ImagePlaceholder[] = data.productImages;
+export const testimonialAvatars: ImagePlaceholder[] = data.testimonialAvatars;
+
+// Keep the old export for compatibility if anything uses it, although it seems not.
+export const PlaceHolderImages: ImagePlaceholder[] = [...data.productImages, ...data.testimonialAvatars];
