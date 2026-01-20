@@ -21,7 +21,7 @@ export function OfferSection() {
             size="lg"
             className="w-full text-lg py-6 px-8 uppercase font-bold"
           >
-            Comprar
+            Comprar com desconto
           </Button>
         </div>
 

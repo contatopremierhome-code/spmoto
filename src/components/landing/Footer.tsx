@@ -11,7 +11,7 @@ export function Footer() {
           Apenas <span className="text-primary">R$20,00</span>
         </p>
         <Button size="lg" className="mt-8 text-lg py-6 px-8 uppercase font-bold">
-          Comprar
+          Comprar com desconto
         </Button>
         <div className="mt-12 w-full max-w-3xl shadow-2xl rounded-lg overflow-hidden border-4 border-card">
           <video
