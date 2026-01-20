@@ -2,8 +2,11 @@
 
 import { Button } from '@/components/ui/button';
 import { ShieldCheck, Truck } from 'lucide-react';
+import Link from 'next/link';
 
 export function OfferSection() {
+  const checkoutUrl =
+    'https://www.ggcheckout.com/checkout/v2/iLiC2k1PHfHSlbjmF7OS';
   return (
     <section className="w-full bg-secondary py-12 md:py-16">
       <div className="container mx-auto px-4 max-w-2xl flex flex-col items-center text-center gap-6">
@@ -17,12 +20,14 @@ export function OfferSection() {
         </div>
 
         <div className="flex flex-col items-center gap-4 w-full max-w-xs">
-          <Button
-            size="lg"
-            className="w-full text-lg py-6 px-8 uppercase font-bold"
-          >
-            Comprar com desconto
-          </Button>
+          <Link href={checkoutUrl} className="w-full">
+            <Button
+              size="lg"
+              className="w-full text-lg py-6 px-8 uppercase font-bold"
+            >
+              Comprar com desconto
+            </Button>
+          </Link>
         </div>
 
         <div className="flex justify-center items-center gap-8 -mt-2">
