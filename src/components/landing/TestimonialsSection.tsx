@@ -162,8 +162,9 @@ export function TestimonialsSection() {
             <Image
               src={selectedImage}
               alt="Imagem da avaliação ampliada"
-              width={800}
-              height={800}
+              width={600}
+              height={600}
+              quality={70}
               className="rounded-lg object-contain max-h-[90vh] w-full"
             />
           </DialogContent>

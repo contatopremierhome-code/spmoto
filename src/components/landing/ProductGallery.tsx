@@ -47,6 +47,7 @@ export function ProductGallery() {
                     height={600}
                     className="rounded-lg object-cover aspect-square"
                     data-ai-hint={mainImage.imageHint}
+                    priority
                   />
                 </CardContent>
               </Card>
@@ -101,8 +102,9 @@ export function ProductGallery() {
             <Image
               src={selectedImage}
               alt="Imagem do produto ampliada"
-              width={800}
-              height={800}
+              width={600}
+              height={600}
+              quality={70}
               className="rounded-lg object-contain max-h-[90vh] w-full"
             />
           </DialogContent>
