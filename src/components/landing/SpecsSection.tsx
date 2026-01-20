@@ -17,7 +17,7 @@ export function SpecsSection() {
         <Card className="border-2">
           <CardHeader>
             <CardTitle className="text-3xl md:text-4xl font-bold text-center">
-              Tudo o que você precisa saber:
+              Detalhes do Produto
             </CardTitle>
           </CardHeader>
           <CardContent>
