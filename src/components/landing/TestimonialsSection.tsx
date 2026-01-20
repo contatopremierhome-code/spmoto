@@ -21,7 +21,7 @@ const testimonials = [
   {
     id: '2',
     name: 'João Ferreira',
-    text: 'Impressionante a qualidade pelo preço. Fixou muito bem na minha XRE. Moro no centro de SP e chegou em menos de 24h. Recomendo!',
+    text: 'Impressionante a qualidade pelo preço. Fixou muito bem na minha Fazer 250. Moro no centro de SP e chegou em menos de 24h. Recomendo!',
     avatarId: 'avatar2',
     reviewImages: [
       'https://down-br.img.susercontent.com/file/br-11134103-7r98o-lz20vnqz08t199.webp',
