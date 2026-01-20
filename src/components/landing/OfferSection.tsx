@@ -12,7 +12,7 @@ export function OfferSection() {
         <div className="flex flex-col items-center gap-4 w-full max-w-xs">
           <p className="font-semibold">Selecione a quantidade:</p>
           <QuantitySelector />
-          <Button size="lg" className="w-full text-lg py-7 px-8 uppercase font-bold mt-2">
+          <Button size="lg" className="w-full text-lg py-6 px-4 uppercase font-bold mt-2 whitespace-normal h-auto">
             Quero meu celular seguro agora + Entrega rápida SP
           </Button>
         </div>

@@ -9,7 +9,7 @@ export function Footer() {
           <h3 className="text-2xl md:text-3xl font-bold">Não perca mais tempo com suportes frágeis.</h3>
           <p className="text-xl md:text-2xl font-bold mt-2">A partir de <span className="text-primary">R$20,00</span></p>
         </div>
-        <Button size="lg" className="text-lg py-7 px-8 uppercase font-bold">
+        <Button size="lg" className="text-lg py-6 px-8 uppercase font-bold whitespace-normal h-auto">
           Garantir meu suporte agora
         </Button>
         <div className="text-center text-muted-foreground text-sm mt-4">
